@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </Hello !<>
-   <Mais qui suis-je ?/>
-  <Je m'appelle Jennifer et j'ai 30 ans, avec un parcours assez atypique... :D
+Hello !
+Mais qui suis-je ?
+Je m'appelle Jennifer et j'ai 30 ans, avec un parcours assez atypique... :D
 Tout a commencé, il y a fort longtemps, soit en 19.. (oui ça fait bizarre), 1996. Date à laquelle j'ai démonté mon premier magnétoscope, j'ai toujours été passionnée par la technologie et le fonctionnement des machines !
 
 Parcours Scolaire :
@@ -14,5 +11,5 @@ Parcours Professionnel :
 
 Après le BAC, j'ai travaillé 8 ans dans la vente en pret à porter 
 
-Centres d'intérêts :/>
-</html>
+Centres d'intérêts :
+
