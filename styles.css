@@ -1,5 +1,5 @@
 body {
-  text-align: center;
+  text-align: left;
   background-color: #f0e8c5;
 }
 
@@ -15,5 +15,5 @@ div {
 .section-style {
   margin-right: 25px;
   margin-left: 25px;
-  background-color: white;
+  background-color: blue;
 }
