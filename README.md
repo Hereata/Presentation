@@ -3,7 +3,6 @@
   <head>
     <title>Hello !</title>
   </head>
-  <body>
     <h1>Mais qui suis-je ?</h1>
     <h4 id='date'></h4>
   </Je m'appelle Jennifer et j'ai 30 ans, avec un parcours assez atypique... :D
