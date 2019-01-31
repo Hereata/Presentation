@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello !</title>
-  </head>
-    <h1>Mais qui suis-je ?</h1>
+  </Hello !<>
+   <Mais qui suis-je ?/>
     <h4 id='date'></h4>
   </Je m'appelle Jennifer et j'ai 30 ans, avec un parcours assez atypique... :D
 Tout a commencé, il y a fort longtemps, soit en 19.. (oui ça fait bizarre), 1996. Date à laquelle j'ai démonté mon premier magnétoscope, j'ai toujours été passionnée par la technologie et le fonctionnement des machines !>
